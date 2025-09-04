@@ -7,3 +7,5 @@ It was created to practice Git and GitHub integration with VS Code.
 
 ```bash
 streamlit run app.py
+
+This project also has contributions from Songyue Xie.

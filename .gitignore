@@ -5,10 +5,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# C 扩展
+# C extensions
 *.so
 
-# 分发 / 打包
+# packaging and distribution
 .Python
 build/
 develop-eggs/
@@ -28,7 +28,7 @@ share/python-wheels/
 *.egg
 MANIFEST
 
-# 虚拟环境
+# venv
 .venv/
 venv/
 ENV/
@@ -36,7 +36,7 @@ env/
 env.bak/
 .conda/
 
-# 单元测试 / 覆盖率
+# unit test / cover
 htmlcov/
 .tox/
 .nox/
@@ -74,10 +74,10 @@ db.sqlite3
 instance/
 .webassets-cache
 
-# Streamlit 缓存
+# Streamlit
 .streamlit/
 
-# 临时文件
+# temp files
 *.swp
 *.swo
 *~
